@@ -1,0 +1,7 @@
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.DayNight">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="RunTheme" parent="@android:style/Theme.Translucent.NoTitleBar" />
+</resources>
